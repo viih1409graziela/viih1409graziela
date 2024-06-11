@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## ola sejam bem vindos.
+meu nome e vitoria tenho 17 anos e estou esdutando no aluna e nos projetos estou desenvolvendo linguagens javascript utilizo esse espaco para minha organizacao e pra compartilhar meus trabalhos.
+## qualquer duvida entrar em contato
+vi07graziela@gmail.comn
 <!--
 **viih1409graziela/viih1409graziela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
